@@ -1,4 +1,0 @@
-seanogden.github.com
-====================
-
-webpage
